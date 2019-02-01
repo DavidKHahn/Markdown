@@ -82,3 +82,42 @@ ___
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+
+
+<!-- 'Purpose' for Git Contribution -->
+
+## Purpose
+Added documentation and links for using Workbench with a service principal.
+Fixed a minor bug.
+
+## Does this introduce a breaking change?
+* [ ] Yes
+* [x ] No
+
+## Pull Request Type
+
+What kind of change does this Pull Request introduce?
+
+* [ x] Bugfix
+* [ ] Feature
+* [ ] Code style update (formatting, local variables)
+* [ ] Refactoring (no functional changes, no api changes)
+* [ x] Documentation content changes
+* [ ] Other... Please describe:
+
+# How to Test
+* Get the code
+```
+git clone [repo-address]
+cd [repo-name]
+git checkout [branch-name]
+npm install
+```
+* Test the code
+```
+```
+* What to Check
+
+Verify that the following are valid
+* ...
+# Other Information
